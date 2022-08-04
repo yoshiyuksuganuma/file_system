@@ -27,5 +27,4 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
     print_r($_POST);
     header( "refresh:2;url=index.php" );
     exit();
-    aho
 }
