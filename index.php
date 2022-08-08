@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>save csv</h1>
+<h1>ファイルへの送信フォーム</h1>
 <form action="/surveyDo.php" method="POST">
       <p>件名: <input type="text" name="subject" required></p>
     <p>お名前: <input type="text" name="name" required></p>
